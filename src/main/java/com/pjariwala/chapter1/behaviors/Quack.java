@@ -1,4 +1,4 @@
-package com.pjariwala.chapter1;
+package com.pjariwala.chapter1.behaviors;
 
 public class Quack implements QuackBehavior {
   @Override
